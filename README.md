@@ -1,2 +1,3 @@
 # hello-world
-Sample repository
+
+Learning about commits in GitHub.
